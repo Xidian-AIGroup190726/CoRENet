@@ -1,1 +1,1 @@
-Our code is released [here](https://github.com/Hike-Curry/core)!
+Our code is released [here](https://github.com/Hike-Curry/CoRE-Net)!
