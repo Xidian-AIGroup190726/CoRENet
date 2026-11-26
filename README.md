@@ -1,1 +1,1 @@
-Our code is released here!
+Our code is released [here](https://github.com/Hike-Curry/core)!
